@@ -1,0 +1,19 @@
+#Pizzas
+
+pizzas = ['domino','five pizza','pizza pino']
+for pizza in pizzas:
+	print(pizza)
+	print(pizza.title() + ", is the best pizza!")
+	print("I can't wait to eat "+ pizza.title() + "again.\n")
+	
+print("Thank you, guys. It was a great dinner!")
+
+#Animals
+
+animals = ['dog','cat','bird','snake']
+for animal in animals:
+	print(animal)
+	print(animal.title() + "\twould make a great pet!")
+	print("I love\t"+ animal.title() + ".\n")
+	
+print("I love all the animals on my list.")
